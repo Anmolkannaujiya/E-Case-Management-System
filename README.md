@@ -62,6 +62,9 @@
     <td align="center" style="animation: float 3s ease-in-out infinite 1.5s;">
       ⚡ Performance
     </td>
+    <td align="center" style="animation: float 3s ease-in-out infinite 1.5s;">
+      ⚡ Gay Boi
+    </td>
   </tr>
 </table>
 
